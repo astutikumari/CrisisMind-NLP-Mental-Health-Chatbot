@@ -52,8 +52,6 @@ Mental health support is often limited by language barriers and access to profes
 
 ---
 
-Would you like me to give you a **matching `.gitignore`** and **`requirements.txt`** (Python + Streamlit + NLP libraries) to upload alongside this? It’ll make your repo perfectly complete and professional.
-
 ---
 
 ## 🧮 Dataset Summary
@@ -93,8 +91,6 @@ Example interaction:
 User (Hindi): मैं बहुत उदास महसूस कर रही हूँ।
 Bot: मुझे खेद है कि आप ऐसा महसूस कर रही हैं। आप अकेली नहीं हैं। क्या आप इस बारे में और बात करना चाहेंगी?
 
-yaml
-Copy code
 
 ---
 
@@ -134,14 +130,14 @@ streamlit run app/app.py
 Then open the local server link to interact with the chatbot.
 
 🧑‍💻 Author
-👩‍💻 Research Intern: Astuti Kumari
-🏢 Organization: Suvidha Foundation
-📅 Duration: Research Internship Project (2025)
+Research Intern: Astuti Kumari
+Organization: Suvidha Foundation
+Duration: Research Internship Project (2025)
 
-📜 License
+ License
 This project is open-source and available under the MIT License.
 
-❤️ Acknowledgments
+Acknowledgments
 Suvidha Foundation for providing the research opportunity
 
 Open-source NLP communities (Hugging Face, IndicNLP)
