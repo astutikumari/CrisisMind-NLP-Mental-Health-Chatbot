@@ -1,4 +1,0 @@
-Language,Test_Cases,Emotion_Accuracy_%,Risk_Accuracy_%,Overall_Accuracy_%
-English,10,90.0,100.0,95.0
-Hindi,10,90.0,100.0,95.0
-Gujarati,10,100.0,100.0,100.0

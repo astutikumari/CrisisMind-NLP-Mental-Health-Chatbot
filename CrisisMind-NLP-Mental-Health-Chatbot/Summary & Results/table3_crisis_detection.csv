@@ -1,5 +1,0 @@
-Risk_Level,Test_Cases,Correctly_Classified,Accuracy_%
-LOW,4,4,100.0
-MODERATE,3,3,100.0
-HIGH,3,2,66.7
-CRITICAL,4,4,100.0
