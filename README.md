@@ -133,10 +133,7 @@ Copy code
 streamlit run app/app.py
 Then open the local server link to interact with the chatbot.
 
-🧑‍💻 Author
-Research Intern: Astuti Kumari
-Organization: Suvidha Foundation
-Duration: Research Internship Project (2025)
+
 
  License
 This project is open-source and available under the MIT License.
