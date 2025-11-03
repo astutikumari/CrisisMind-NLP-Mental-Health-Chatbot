@@ -92,8 +92,11 @@ User (Hindi): मैं बहुत उदास महसूस कर रह�
 
 Bot: मुझे खेद है कि आप ऐसा महसूस कर रही हैं। आप अकेली नहीं हैं। क्या आप इस बारे में और बात करना चाहेंगी?
 
-
+![WhatsApp Image 2025-11-03 at 13 16 03_494c0591](https://github.com/user-attachments/assets/29465f30-cda9-425d-9fe5-ed5c38e34911)
+![WhatsApp Image 2025-11-03 at 13 16 41_4aa6e8b6](https://github.com/user-attachments/assets/af5d6de6-cad6-4dd0-9011-1c4e9327a239)
+![WhatsApp Image 2025-11-03 at 13 18 10_58d1c15a](https://github.com/user-attachments/assets/f38cfcb0-f9f2-4ec2-bfcd-1a4db773f885)
 ---
+
 
 ## 🧾 Research Objective
 
