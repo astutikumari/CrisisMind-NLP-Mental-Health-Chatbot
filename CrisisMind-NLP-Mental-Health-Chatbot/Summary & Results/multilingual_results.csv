@@ -1,0 +1,10 @@
+Language,Input_Text,English_Translation,Emotion,Confidence,Risk_Score,Risk_Level
+English,I feel very sad today,,sadness,0.9862530827522278,2.9587592482566833,LOW
+English,I want to end my life,,sadness,0.987795352935791,10.0,CRITICAL
+English,Having a wonderful day!,,joy,0.9618035554885864,0.0,LOW
+Hindi,मैं बहुत दुखी हूं,I am very sad,sadness,0.9875375628471375,2.9626126885414124,LOW
+Hindi,मैं आत्महत्या करना चाहता हूं,i want to commit suicide,sadness,0.9866438508033752,10.0,CRITICAL
+Hindi,आज मेरा दिन बहुत अच्छा है,I have a great day today,joy,0.9872422218322754,0.0,LOW
+Gujarati,હું ખૂબ દુઃખી છું,I am very sad,sadness,0.9875375628471375,2.9626126885414124,LOW
+Gujarati,હું આત્મહત્યા કરવા માંગું છું,I want to commit suicide,sadness,0.9850562214851379,10.0,CRITICAL
+Gujarati,આજે મારો દિવસ સરસ છે,I have a good day today,joy,0.9056762456893921,0.0,LOW

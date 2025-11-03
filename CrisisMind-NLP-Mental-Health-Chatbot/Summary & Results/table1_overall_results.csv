@@ -1,0 +1,2 @@
+Model,Dataset,Samples,Accuracy,Precision,Recall,F1-Score
+CrisisMind (DistilRoBERTa-base),Emotion (Twitter),1000,0.8350,0.7590,0.8350,0.7942

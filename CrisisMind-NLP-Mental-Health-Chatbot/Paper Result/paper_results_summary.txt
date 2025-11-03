@@ -1,0 +1,35 @@
+
+CrisisMind System Performance Summary
+======================================
+
+1. EMOTION CLASSIFICATION
+   - Model: DistilRoBERTa-base (j-hartmann/emotion-english)
+   - Dataset: Emotion (Twitter) - 1,000 validation samples
+   - Overall Accuracy: 83.50%
+   - Weighted F1-Score: 0.7942
+   - Average Confidence: 95.5%
+
+2. PER-EMOTION PERFORMANCE
+   - Best: sadness (F1: 0.908)
+   - Worst: love (F1: 0.000)
+
+3. CRISIS DETECTION
+   - Accuracy: 92.9% (with ±1 level tolerance)
+   - Critical cases correctly flagged: 4/4
+   - False positive rate: LOW (proper threshold calibration)
+
+4. SYSTEM CAPABILITIES
+   ✓ Real-time emotion detection (<200ms latency)
+   ✓ Multi-level crisis risk scoring (0-10 scale)
+   ✓ Empathetic response generation
+   ✓ Interactive chatbot interface
+   ✓ Hotline integration for critical cases
+
+5. FILES GENERATED FOR PAPER
+   - confusion_matrix_complete.png
+   - per_emotion_f1_scores.png
+   - emotion_distribution.png (from Part 1)
+   - table1_overall_results.csv
+   - table2_per_emotion_performance.csv
+   - table3_crisis_detection.csv
+   - dataset_summary.csv (from Part 1)
