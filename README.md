@@ -1,6 +1,6 @@
 # 🧠 CrisisMind: NLP-Driven Mental Health Support System
 
-### 🌸 Research Internship Project — Suvidha Foundation
+
 
 **CrisisMind** is an AI-powered multilingual chatbot designed to provide real-time mental health support using **Natural Language Processing (NLP)**.  
 It helps users communicate in **English**, **Hindi**, and **Gujarati**, offering emotion-aware responses, sentiment recognition, and empathetic guidance for stress, anxiety, and emotional wellness.
