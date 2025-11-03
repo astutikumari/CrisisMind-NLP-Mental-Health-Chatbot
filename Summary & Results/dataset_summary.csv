@@ -1,0 +1,4 @@
+Dataset,Type,Train Size,Val Size,Test Size,Total,Use Case
+GoEmotions,Text (Reddit),43410,5426,5427,54263,Emotion Classification
+Emotion,Text (Twitter),16000,2000,2000,20000,6-Emotion Detection
+Mental Health Counseling,Text (Therapy),3512,0,0,3512,Response Generation
