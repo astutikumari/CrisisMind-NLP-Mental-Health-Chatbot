@@ -121,7 +121,7 @@ Bot: मुझे खेद है कि आप ऐसा महसूस क�
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/yourusername/CrisisMind-NLP-Mental-Health-Chatbot.git
+git clone https://github.com/astutikumari/CrisisMind-NLP-Mental-Health-Chatbot.git
 cd CrisisMind-NLP-Mental-Health-Chatbot
 🔹 Install Requirements
 bash
